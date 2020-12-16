@@ -13,7 +13,7 @@
 - 🔭 I'm  currently working on [Blu](https://useblu.com.br)
 - 🌐 I'm looking to collaborate on open-source projects
 - 📫 How to reach me: [linktr.ee](https://linktr.ee/m4rcelo)
-- ⚡ Fun fact: Because I like the Viking Age, I've decided to learn Norwegian :norway: (Jeg snakker litt Norsk!)
+- ⚡ Fun fact: I've decided to learn Norwegian :norway: (Jeg snakker litt Norsk!) because I like the Viking Age!
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcelotoledo5000&langs_count=8&layout=compact)](https://github.com/marcelotoledo5000/github-readme-stats)
 
