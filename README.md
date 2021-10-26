@@ -17,6 +17,10 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcelotoledo5000&langs_count=8&layout=compact)](https://github.com/marcelotoledo5000/github-readme-stats)
 
-<!-- [![marcelotoledo5000's github stats](https://github-readme-stats.vercel.app/api?username=marcelotoledo5000&theme=radical))](https://github.com/marcelotoledo5000/github-readme-stats) -->
+![marcelotoledo5000's github stats](https://github-readme-stats.vercel.app/api?username=marcelotoledo5000&theme=radical&count_private=true&show_icons=true)
+
+![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=marcelotoledo5000&hide_border=true)
 
 [![marcelotoledo5000's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=MarceloToledo)](https://github.com/marcelotoledo5000/github-readme-stats)
+
+[![Visitors](https://api.visitorbadge.io/api/combined?path=https%3A%2F%2Fgithub.com%2Fmarcelotoledo5000%2F&countColor=%23263759&style=plastic)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fmarcelotoledo5000%2F)
