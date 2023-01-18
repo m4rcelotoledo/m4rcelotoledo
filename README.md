@@ -8,7 +8,7 @@
 - :octocat: I'm a Software Engineer and my favorite language is Ruby :ruby:
 - :100: I was a Quality Assurance Engineer, so I love perfection
 - :beers: Beer Sommelier
-- :guitar: Passionate about [Heavy, Trash and Black Metal](https://open.spotify.com/playlist/3wD3dUR6HiR0MxD0Fdgqdd?si=rLRvHwffQrSdgRXGXGDVQg), [Folk](https://open.spotify.com/playlist/2bMwaEBV0k0dXJmIXr4ul7?si=dk81cTKRSOuFcsu_Npql3w), [Top Songs 2020](https://open.spotify.com/playlist/37i9dQZF1EM4XIBRIN9JNu?si=ELMcxhF6StqouGwBewSu-g)
+- :guitar: Passionate about [Heavy, Trash and Black Metal](https://open.spotify.com/playlist/3wD3dUR6HiR0MxD0Fdgqdd?si=rLRvHwffQrSdgRXGXGDVQg), [Folk](https://open.spotify.com/playlist/2bMwaEBV0k0dXJmIXr4ul7?si=dk81cTKRSOuFcsu_Npql3w), [Top Songs 2020](https://open.spotify.com/playlist/37i9dQZF1EM4XIBRIN9JNu?si=ELMcxhF6StqouGwBewSu-g), [Top Songs 2021](https://open.spotify.com/playlist/37i9dQZF1EUMDoJuT8yJsl?si=ea9876e6c61a4b74), [Top Songs 2022](https://open.spotify.com/playlist/37i9dQZF1F0sijgNaJdgit?si=90315b1c767647d4)
 - Lover of the Viking Era and Norse Mythology ("Heill Óðinn")
 <!-- - 🔭 I'm  currently working on [Where](https://appwhere.io/) -->
 - 🌐 I'm looking to collaborate on open-source projects
