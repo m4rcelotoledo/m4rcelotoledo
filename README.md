@@ -16,10 +16,14 @@
 - 📫 How to reach me: [linktr.ee](https://linktr.ee/m4rcelo)
 - ⚡ Fun fact: I've decided to learn Norwegian :norway: (Jeg snakker litt Norsk!) because I like the Viking Age!
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=m4rcelotoledo&langs_count=8&layout=compact)](https://github.com/m4rcelotoledo/github-readme-stats)
+<div align="center">
 
-![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=m4rcelotoledo&hide_border=true)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=m4rcelotoledo&langs_count=8&layout=compact)](https://github.com/m4rcelotoledo/github-readme-stats)
 
-[![m4rcelotoledo's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=MarceloToledo)](https://github.com/m4rcelotoledo/github-readme-stats)
+  ![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=m4rcelotoledo&hide_border=true)
 
-[![Visitors](https://api.visitorbadge.io/api/combined?path=https%3A%2F%2Fgithub.com%2Fm4rcelotoledo%2F&countColor=%23263759&style=plastic)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fm4rcelotoledo%2F)
+  [![m4rcelotoledo's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=MarceloToledo)](https://github.com/m4rcelotoledo/github-readme-stats)
+
+  [![Visitors](https://api.visitorbadge.io/api/combined?path=https%3A%2F%2Fgithub.com%2Fm4rcelotoledo%2F&countColor=%23263759&style=plastic)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fm4rcelotoledo%2F)
+
+</div>
