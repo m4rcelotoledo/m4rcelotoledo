@@ -47,8 +47,6 @@
 
   ![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=m4rcelotoledo&hide_border=true)
 
-  [![m4rcelotoledo's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=MarceloToledo)](https://github.com/m4rcelotoledo/github-readme-stats)
-
   [![Visitors](https://api.visitorbadge.io/api/combined?path=https%3A%2F%2Fgithub.com%2Fm4rcelotoledo%2F&countColor=%23263759&style=plastic)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fm4rcelotoledo%2F)
 
 </div>
