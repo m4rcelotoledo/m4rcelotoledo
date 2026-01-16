@@ -43,7 +43,7 @@
 
 <div align="center">
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=m4rcelotoledo&langs_count=8&layout=compact)](https://github.com/m4rcelotoledo/github-readme-stats)
+  [![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=m4rcelotoledo&layout=compact&langs_count=8)](https://github.com/m4rcelotoledo/github-readme-stats)
 
   ![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=m4rcelotoledo&hide_border=true)
 
