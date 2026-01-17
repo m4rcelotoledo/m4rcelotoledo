@@ -45,7 +45,7 @@
 
   [![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=m4rcelotoledo&layout=compact&langs_count=8)](https://github.com/m4rcelotoledo/github-readme-stats)
 
-  ![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=m4rcelotoledo&hide_border=true)
+  [![GitHub Contributions Streak](https://streak-stats-m4rcelotoledo.vercel.app?user=m4rcelotoledo&theme=github-dark-blue)](https://git.io/streak-stats)
 
   [![Visitors](https://api.visitorbadge.io/api/combined?path=https%3A%2F%2Fgithub.com%2Fm4rcelotoledo%2F&countColor=%23263759&style=plastic)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fm4rcelotoledo%2F)
 
