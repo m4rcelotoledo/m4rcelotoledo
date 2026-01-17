@@ -43,7 +43,7 @@
 
 <div align="center">
 
-  [![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=m4rcelotoledo&layout=compact&langs_count=8)](https://github.com/m4rcelotoledo/github-readme-stats)
+  [![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=m4rcelotoledo&theme=dark&layout=compact&langs_count=8)](https://github.com/m4rcelotoledo/github-readme-stats)
 
   [![GitHub Contributions Streak](https://streak-stats-m4rcelotoledo.vercel.app?user=m4rcelotoledo&theme=github-dark-blue)](https://git.io/streak-stats)
 
