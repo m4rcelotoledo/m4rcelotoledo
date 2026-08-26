@@ -4,8 +4,22 @@
 
 - :mortar_board: Graduated in Information Systems by [Faculdade Impacta de Tecnologia](https://www.impacta.edu.br/)
 - :mortar_board: Lato Sensu Postgraduate Course in Advanced Development in Go - Go Expert by [Faculdade Full Cycle de Tecnologia](https://faculdadefullcycle.edu.br/)
+- :rocket: Founder & Software Engineer at [**Readhub**](https://www.readhub.com.br), an independent reading management and gamification platform built with Go (Clean Architecture), PostgreSQL, React, TypeScript, and Google Cloud (GCP).
 - :octocat: I'm a Software Engineer and my favorite language is Ruby :diamonds: and Go <img src="https://github.com/user-attachments/assets/8b2dd36f-ffb1-4f1d-8ead-8d87f46e2ea3" width="20" height="20">
 - :100: I was a Quality Assurance Engineer, so I love perfection
+
+## 🚀 Featured Project
+
+### [Readhub](https://www.readhub.com.br)
+**Founder & Software Engineer**
+
+An independent platform focused on reading management, gamification, and community engagement. I develop and maintain the entire software lifecycle — from product conception and architecture design to implementation, deployment, and continuous evolution.
+
+**Tech Stack & Architecture:**
+- **Backend:** Go, PostgreSQL (pgx), REST APIs, JWT & Google Auth, Chi router, Docker.
+- **Frontend:** React, TypeScript, Tailwind CSS, Vite.
+- **Infrastructure & DevOps:** Google Cloud Platform (GCP), CI/CD pipelines with GitHub Actions.
+- **Design Pattern:** Clean Architecture with strictly defined layers (Domain, Use Cases, API, Repository) ensuring scalability and maintainability.
 
 ## 🛠️ Technologies & Tools
 
